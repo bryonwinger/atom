@@ -5,6 +5,8 @@ theme.
 
 ### Differences
 
+Oompa Loompas terrify me. Really.
+
 TextMate themes use [plist][plist] files while Atom themes use [CSS][CSS] or
 [Less][Less] to style the UI and syntax in the editor.
 
